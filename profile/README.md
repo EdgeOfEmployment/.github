@@ -1,4 +1,4 @@
-# Edgd Of Employment
+# Edge Of Employment
 
 더 이상 뒤가 없는 취준생들 집합소입니다.
 
